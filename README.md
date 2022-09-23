@@ -197,7 +197,7 @@ railway up
 railway open
 ```
 
-Go to "Variables" and include your `DATABASE_URL`. Then go to "Settings" and select "Generate Domain." To view a running example on Railway, visit [ct3a-docker-production.up.railway.app](https://ct3a-docker-production.up.railway.app/).
+Go to "Variables" and include your `DATABASE_URL`. Then go to "Settings" and select "Generate Domain." To view a running example on Railway, visit [ct3a-docker.up.railway.app](https://ct3a-docker.up.railway.app/).
 
 ## Useful Resources
 
