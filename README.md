@@ -145,7 +145,7 @@ Open [localhost:3000](http://localhost:3000/) to see your running application.
 
 ## Docker Compose
 
-You can also use Docker Compose to build the image and run the container. Follow steps 1-4 above and create a `docker-compose.yml` file with the following:
+You can also use Docker Compose to build the image and run the container. Follow steps 1-3 above and create a `docker-compose.yml` file with the following:
 
 ```yaml
 # docker-compose.yml
